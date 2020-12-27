@@ -71,7 +71,7 @@ After you have set up most the steps above with Timmy and Tommy you are now sent
 
 ![Fruit Trees](/acnhbeginners/assets/fruittrees.png)
 
-- After you place your tent and your villagers have theirs placed, Tom nook will give you some tasks to learn how to gather materials. You will need to collect **10 tree branches** and some fruit!
+- After you place your tent and your villagers have theirs placed, Tom Nook will give you some tasks to learn how to gather materials. You will need to collect **10 tree branches** and some fruit!
   - Press "A" while facing a tree to shake it. If there is fruit on the tree, then the fruit will fall down. If there isn't, then branches, wasps, or coins have a chance of falling out of the tree. Press "Y" to pick up things on the ground.
 
 ## Party time + naming your island
@@ -96,7 +96,7 @@ You **cannot** rename your island once you submit a name, so be sure it's someth
   3. Tom Nook offers a free DIY workshop, where your character learns how to craft. 
 - Talking to Timmy will allow you to purchase things like small furniture items, flimsy tools, plants (flower seeds and tree saplings), medicine, and more.
   - Press "R" and "L" to toggle between the two pages of items.
-- Completing the **DIY workshop** allows you to learn DIY cards and obtain the DIY Recipes app on your NookPhone. Additionally, you learn the Flimsy Fishing Rod, Flimsy Bug Net, and Campfire DIYs. We recommend you craft both new tools for the next quest. 
+- Completing the **DIY workshop** course from Tom Nook allows you to learn DIY cards and obtain the DIY Recipes app on your NookPhone. Additionally, you learn the Flimsy Fishing Rod, Flimsy Bug Net, and Campfire DIYs. We recommend you craft both new tools for the next quest. 
 
 ## Unique critter collection
 - After doing the DIY workshop with Tom Nook, he will mention having an interest in the island's natural critters. You'll want to bring him **5 unique (different) bugs and/or fish** to complete this quest.
@@ -136,7 +136,7 @@ You **cannot** rename your island once you submit a name, so be sure it's someth
 * [x] Obtained the recipe for and crafted a Flimsy Net and a Flimsy Fishing Rod.
 * [x] Collected and donated 5 unique critters.
 * [x] Set up Blathers' museum tent.
-* [x] Obtained the Flimsy Axe and the Flimsy watering can DIY recipes.
+* [x] Obtained the Flimsy Axe and the Flimsy Watering Can DIY recipes.
 * [x] Paid off your 5,000 Nook Miles loan.
 
 
